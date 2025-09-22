@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662477710253",
+    "project_id": "memestream-cb370",
+    "storage_bucket": "memestream-cb370.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662477710253:android:1e3546b8ea55afc64b7724",
+        "android_client_info": {
+          "package_name": "com.example.memestream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0bS6390Ad8B8sjg3GJoZwgT5yRY2je0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
